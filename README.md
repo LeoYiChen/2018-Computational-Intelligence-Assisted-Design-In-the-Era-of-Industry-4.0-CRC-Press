@@ -21,3 +21,6 @@ Usage:
 (1) TF1_*_plot is to plot the fitness function, run it in the MATLAB command line
 (2) TF1_* and TF2_* are MATLAB functions
 
+See the running results via: 
+https://codeocean.com/2018/09/11/computational-intelligence-assisted-design-lpar-ciad-rpar-in-the-era-of-industry-4-0-book-matlab-codes-colon-test-functions/code
+
