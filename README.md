@@ -1,4 +1,28 @@
 # 2018-Computational-Intelligence-Assisted-Design-In-the-Era-of-Industry-4.0-CRC-Press
+
+***
+![](https://github.com/LeoYiChen/2018-Computational-Intelligence-Assisted-Design-In-the-Era-of-Industry-4.0-CRC-Press/blob/mfile20180723/TF1_Ackley.jpg)
+
+![](https://github.com/LeoYiChen/2018-Computational-Intelligence-Assisted-Design-In-the-Era-of-Industry-4.0-CRC-Press/blob/mfile20180723/TF1_Beale.jpg)
+
+![](https://github.com/LeoYiChen/2018-Computational-Intelligence-Assisted-Design-In-the-Era-of-Industry-4.0-CRC-Press/blob/mfile20180723/TF1_Booth.jpg)
+
+![](https://github.com/LeoYiChen/2018-Computational-Intelligence-Assisted-Design-In-the-Era-of-Industry-4.0-CRC-Press/blob/mfile20180723/TF1_Bukin6.jpg)
+
+![](https://github.com/LeoYiChen/2018-Computational-Intelligence-Assisted-Design-In-the-Era-of-Industry-4.0-CRC-Press/blob/mfile20180723/TF1_GPrice.jpg)
+
+![](https://github.com/LeoYiChen/2018-Computational-Intelligence-Assisted-Design-In-the-Era-of-Industry-4.0-CRC-Press/blob/mfile20180723/TF1_Rosenbrock.jpg)
+
+![](https://github.com/LeoYiChen/2018-Computational-Intelligence-Assisted-Design-In-the-Era-of-Industry-4.0-CRC-Press/blob/mfile20180723/TF1_Schaffer6.jpg)
+
+![](https://github.com/LeoYiChen/2018-Computational-Intelligence-Assisted-Design-In-the-Era-of-Industry-4.0-CRC-Press/blob/mfile20180723/TF1_Sphere.jpg)
+
+![](https://github.com/LeoYiChen/2018-Computational-Intelligence-Assisted-Design-In-the-Era-of-Industry-4.0-CRC-Press/blob/mfile20180723/TF1_sincos2.jpg)
+
+![](https://github.com/LeoYiChen/2018-Computational-Intelligence-Assisted-Design-In-the-Era-of-Industry-4.0-CRC-Press/blob/mfile20180723/TF1_sinsqrt.jpg)
+
+***
+
 Yi Chen, Yun Li, (2018), Computational Intelligence Assisted Design (In the Era of Industry 4.0), CRC Press (ISBN 978-1-4987-6066-9) https://www.crcpress.com/Computational-Intelligence-Assisted-Design-In-the-Era-of-Industry-40/Chen-Li/p/book/9781498760669
 
 CIAD Book Test Functions
